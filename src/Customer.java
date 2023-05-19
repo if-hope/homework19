@@ -85,7 +85,7 @@ public class Customer {
 
         public Builder marketingPreferences(String marketingPreferences){
             customer.marketingPreferences = marketingPreferences;
-            return this;
+          return this;
         }
 
         public Customer build(){
